@@ -1,0 +1,26 @@
+.input-formatter-date input {
+    width: 41px;
+    font-size: 14px;
+    font-family: arial;
+    text-align: center;
+    padding: 2px;
+    margin: 0 auto;
+}
+
+.field-input input {
+    width: 100%;
+    padding: 7px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+not-valid-time {
+    color: red;
+}
+.form-control, .form-control:focus {
+    border: solid 1px #999;
+    border-radius: 2px;
+}
+
+    .form-control:hover, .form-control:focus {
+        border-color: #00c0ef;
+    }
